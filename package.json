@@ -1,0 +1,27 @@
+{
+  "name": "massento",
+  "version": "0.0.1",
+  "description": "massento is a platform independent script uses ffmpeg to mass encode videos. As a main input parameter it takes a folder and walks throw the folder structure, searches for video files which has not been encoded yet. Optionally the input parameter can be a single file.",
+  "main": "massento.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+	
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/czellerkonti/massento-nodejs.git"
+  },
+  "keywords": [
+    "ffmpeg",
+    "video",
+    "transcode",
+    "encode",
+    "mass"
+  ],
+  "author": "Konstantin Czeller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/czellerkonti/massento-nodejs/issues"
+  },
+  "homepage": "https://github.com/czellerkonti/massento-nodejs#readme"
+}
